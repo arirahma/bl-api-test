@@ -1,9 +1,9 @@
 # bl-api-test
-#installation
+# installation
 
 npm install
 
-#running
+# running
 
 npx mocha bukalapak.test.js
 
