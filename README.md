@@ -1,9 +1,14 @@
 # bl-api-test
-# installation
+
+# Prerequisite
+
+Install Node js
+
+# Installation
 
 npm install
 
-# running
+# Run
 
 npx mocha bukalapak.test.js
 
